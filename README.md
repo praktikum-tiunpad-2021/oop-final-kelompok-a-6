@@ -4,14 +4,14 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
 
 [Challenge Guidelines](challenge-guideline.md)
 
-**Please create a description for this project here**
 
+Tic-tac-toe merupakan permainan kertas dan pensil yang dimainkan untuk dua pemain, X dan O dengan bergiliran menandai ruang dalam ukuran 3X3. Pemain yang berhasil menempatkan tiga tanda mereka di baris horizontal, vertikal, maupun diagonal merupakan pemenang permainan.
 ## Credits
 | NPM           | Name        |
 | ------------- |-------------|
-| 140810xx00xx  | John Doe    |
-| 140810xx00xx  | Jane Doe    |
-| 140810xx00xx  | Lorem Ipsum |
+| 140810200007  | Rangga Putra    |
+| 140810200051  | Wildan Hanif M    |
+| 140810200063  | M. Davio Athallah |
 
 ## Change log
 - **[Sprint Planning](changelog/sprint-planning.md) - (planning date)** 
