@@ -1,12 +1,12 @@
 # Scrum Report (Sprint 2)
-| From dd/mm/yyyy to dd/mm/yyyy
+| From 22/11/2021 to 29/11/2021
 
 ## Team (Insert your name)
 | NPM           | Name        |
 | ------------- |-------------|
-| 140810xx00xx  | John Doe    |
-| 140810xx00xx  | Jane Doe    |
-| 140810xx00xx  | Lorem Ipsum |
+| 140810200007  | Rangga Putra    |
+| 140810200051  | Wildan Hanif M    |
+| 140810200063  | M. Davio Athallah |
 
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
