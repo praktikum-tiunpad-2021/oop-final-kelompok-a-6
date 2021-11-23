@@ -16,7 +16,7 @@
 | 1.3 | Implementasi UI  | Davio |
 | 2.1 | Implementasi Gameplay (OOP + UI) | Rangga & Wildan |
 | 2.2 | Implementasi Menu | Davio |
-| 2.3 | Implementasi Reset Button & Main | Rangga, Davio, & Wildan |
+| 2.3 | Implementasi Reset Button | Rangga, Davio, & Wildan |
 | 3.1 | Implementasi Error Handling | Davio |
 | 3.2 | Implementasi Challenge | Davio & Wildan |
 | 3.3 | Finishing | Rangga |
