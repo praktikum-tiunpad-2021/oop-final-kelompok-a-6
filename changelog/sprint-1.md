@@ -19,7 +19,7 @@
 | --- | ---------- | ------- | ------ |
 | 1.1 | Inisiasi Project | Rangga | DONE |
 | 1.2 | Implementasi OOP | Rangga & Wildan | FAILED |
-| 1.3 | Implementasi UI  | Davio | | FAILED |
+| 1.3 | Implementasi UI  | Davio | FAILED |
 
 ## Retrospective 
 
