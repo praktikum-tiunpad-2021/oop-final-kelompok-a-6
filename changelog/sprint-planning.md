@@ -21,7 +21,7 @@
 | 2.3 | Implementasi Komponen Button Exit | Wildan |
 | 2.4 | Implementasi Penanda Player X/O yang Bermain  | Davio |
 | 3.1 | Implementasi Error Handling | Rangga |
-| 3.2 | Implementasi UI (Gambaran Fiks) | Davio & Wildan |
+| 3.2 | Implementasi UI Fiks | Davio & Wildan |
 | 3.3 | Finishing | Rangga |
 
 
