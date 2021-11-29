@@ -18,16 +18,22 @@ Tic-tac-toe merupakan permainan kertas dan pensil yang dimainkan untuk dua pemai
    -  Membuat Project Gradle (Inisialisasi project Gradle)
 
 - **[Sprint 1](changelog/sprint-1.md) - (22/11/2021 - 27/11/2021)** 
-   - 
-   - 
+   - Inisiasi Project
+   - Implementasi UI(Gambaran Kasar)
+   - Implementasi 9 Komponen Button
+   - Implementasi Komponen Game Board
+   - Implementasi Komponen Judul
 
-- **[Sprint 2](changelog/sprint-2.md) - (date from x until x)** 
-   - Short changes 1
-   - Short changes 2
+- **[Sprint 2](changelog/sprint-2.md) - (28/11/2021 - 2/12/2021)** 
+   - Implementasi Gameplay (UI(1.2) + OOP(1.3 - 1.5))
+   - Implementasi Komponen Button Reset
+   - Implementasi Komponen Button Exit
+   - Implementasi Penanda Player X/O yang Bermain
    
 - **[Sprint 3](changelog/sprint-3.md) - (date from x until x)** 
-   - Short changes 1
-   - Short changes 2
+   - Implementasi Error Handling
+   - Implementasi UI Fiks
+   - Finishing
 
 ## Running The App
 
