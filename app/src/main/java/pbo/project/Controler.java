@@ -1,33 +1,32 @@
 package pbo.project;
 
-import java.lang.reflect.Array;
 import java.net.URL;
-import java.sql.Time;
 import java.util.ArrayList;
 import java.util.ResourceBundle;
-import java.util.Timer;
-import java.util.TimerTask;
-import java.util.concurrent.TimeUnit;
 
-import javax.swing.Action;
 import javafx.scene.text.Text;
+import javafx.stage.Stage;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
+import javafx.scene.control.Alert;
 import javafx.scene.control.Button;
-import javafx.scene.control.Label;
-import javafx.scene.input.MouseEvent;
+import javafx.scene.control.ButtonType;
+import javafx.scene.control.Alert.AlertType;
+import javafx.scene.layout.AnchorPane;
 
-import java.net.URL;
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.ResourceBundle;
 
 /**
  *
  * @author Rangga Putra
+ *         Wildan Hanif Mustofa
+ *         Muhamad Davio Athallah
  */
 public class Controler implements Initializable {
+    @FXML
+    private AnchorPane anchorPane;
+
     @FXML
     private Button button1;
 
@@ -63,6 +62,9 @@ public class Controler implements Initializable {
 
     @FXML
     private Text scoreO;
+
+    // Buat Logout
+    Stage stage;
 
     private int playerTurn = 0;
     private int xCount = 0;
@@ -158,9 +160,25 @@ public class Controler implements Initializable {
         }
     }
 
-    // Buat Fungsi Timer
-    // private void initMulai() {
-    // Timer timer = new Timer();
-    // timer.
-    // }
+    public void delay() {
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            System.out.println("Thread Interrupted");
+        }
+    }
+
+    // Method Buat Logout
+    public void exitApp(ActionEvent evt) {
+        Alert alert = new Alert(AlertType.CONFIRMATION);
+        alert.setTitle("Exit");
+        alert.setHeaderText("You're about to exit!");
+
+        // Untuk keluar Program
+        if (alert.showAndWait().get() == ButtonType.OK) {
+            stage = (Stage) anchorPane.getScene().getWindow();
+            delay();
+            stage.close();
+        }
+    }
 }
