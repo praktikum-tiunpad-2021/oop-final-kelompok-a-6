@@ -19,8 +19,9 @@
 | 2.1 | Implementasi Gameplay (UI(1.2) + OOP(1.3 - 1.5)) | Rangga, Wildan, & Davio |
 | 2.2 | Implementasi Komponen Button Reset | Davio |
 | 2.3 | Implementasi Komponen Button Exit | Wildan |
-| 2.4 | Implementasi Error Handling | Rangga |
-| 3.2 | Implementasi Challenge | Davio & Wildan |
+| 2.4 | Implementasi Penanda Player X/O yang Bermain  | Davio |
+| 3.1 | Implementasi Error Handling | Rangga |
+| 3.2 | Implementasi UI (Gambaran Fiks) | Davio & Wildan |
 | 3.3 | Finishing | Rangga |
 
 
