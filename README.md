@@ -17,9 +17,9 @@ Tic-tac-toe merupakan permainan kertas dan pensil yang dimainkan untuk dua pemai
 - **[Sprint Planning](changelog/sprint-planning.md) - (20/11/2021)** 
    -  Membuat Project Gradle (Inisialisasi project Gradle)
 
-- **[Sprint 1](changelog/sprint-1.md) - (date from 22/11/2021 until 27/11/2021)** 
-   - Short changes 1
-   - Short changes 2
+- **[Sprint 1](changelog/sprint-1.md) - (22/11/2021 - 27/11/2021)** 
+   - 
+   - 
 
 - **[Sprint 2](changelog/sprint-2.md) - (date from x until x)** 
    - Short changes 1
