@@ -17,6 +17,11 @@
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
+| 1.1 | Inisiasi Project | Rangga | DONE |
+| 1.2 | Implementasi UI(Gambaran Kasar) | Davio | DONE |
+| 1.3 | Implementasi 9 Komponen Button  | Rangga | DONE |
+| 1.4 | Implementasi Komponen Game Board  | Rangga | DONE |
+| 1.5 | Implementasi Komponen Judul  | Wildan | DONE |
 | 2.1 | Implementasi Gameplay (UI(1.2) + OOP(1.3 - 1.5)) | Rangga, Wildan, & Davio | DONE |
 | 2.2 | Implementasi Komponen Button Reset | Davio | DONE |
 | 2.3 | Implementasi Komponen Button Exit | Wildan | FAILED |
@@ -29,5 +34,6 @@ Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian t
 ## Next Sprint Backlog (Sprint 3)
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
-| 3.1 | Preparing the x | Jane Doe | 
-| 3.2 | Make the x | John Doe | 
+| 3.1 | Implementasi Error Handling | Rangga |
+| 3.2 | Implementasi UI Fiks | Davio & Wildan |
+| 3.3 | Finishing | Rangga |
