@@ -30,5 +30,7 @@ Manajemen waktu kurang baik
 ## Next Sprint Backlog (Sprint 2)
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
-| 2.1 | Preparing the x | Jane Doe | 
-| 2.2 | Make the x | John Doe | 
+| 2.1 | Implementasi Gameplay (UI(1.2) + OOP(1.3 - 1.5)) | Rangga, Wildan, & Davio |
+| 2.2 | Implementasi Komponen Button Reset | Davio |
+| 2.3 | Implementasi Komponen Button Exit | Wildan |
+| 2.4 | Implementasi Penanda Player X/O yang Bermain  | Davio |
