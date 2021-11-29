@@ -1,5 +1,5 @@
 # Scrum Report (Sprint 1)
-| From 22/11/2021 to 29/11/2021
+| From 22/11/2021 to 27/11/2021
 
 ## Team (Insert your name)
 | NPM           | Name        |
@@ -11,15 +11,17 @@
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-| 3             | 1             |
+| 5             | 5             |
 
 ## Sprint 1 Backlog
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
 | 1.1 | Inisiasi Project | Rangga | DONE |
-| 1.2 | Implementasi OOP | Rangga & Wildan | FAILED |
-| 1.3 | Implementasi UI  | Davio | FAILED |
+| 1.2 | Implementasi UI(Gambaran Kasar) | Davio | DONE |
+| 1.3 | Implementasi 9 Komponen Button  | Rangga | DONE |
+| 1.4 | Implementasi Komponen Game Board  | Rangga | DONE |
+| 1.5 | Implementasi Komponen Judul  | Wildan | DONE |
 
 ## Retrospective 
 
