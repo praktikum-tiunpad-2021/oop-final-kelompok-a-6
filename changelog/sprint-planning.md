@@ -12,12 +12,14 @@
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
 | 1.1 | Inisiasi Project | Rangga | 
-| 1.2 | Implementasi OOP | Rangga & Wildan |
-| 1.3 | Implementasi UI  | Davio |
-| 2.1 | Implementasi Gameplay (OOP + UI) | Rangga & Wildan |
-| 2.2 | Implementasi Menu | Davio |
-| 2.3 | Implementasi Reset Button | Rangga, Davio, & Wildan |
-| 3.1 | Implementasi Error Handling | Davio |
+| 1.2 | Implementasi UI (Gambaran Kasar)  | Davio |
+| 1.3 | Implementasi 9 Komponen Button | Rangga |
+| 1.4 | Implementasi Komponen Game Board  | Rangga |
+| 1.5 | Implementasi Komponen Judul  | Wildan |
+| 2.1 | Implementasi Gameplay (UI(1.2) + OOP(1.3 - 1.5)) | Rangga, Wildan, & Davio |
+| 2.2 | Implementasi Komponen Button Reset | Davio |
+| 2.3 | Implementasi Komponen Button Exit | Wildan |
+| 2.4 | Implementasi Error Handling | Rangga |
 | 3.2 | Implementasi Challenge | Davio & Wildan |
 | 3.3 | Finishing | Rangga |
 
@@ -26,8 +28,10 @@
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
 | 1.1 | Inisiasi Project | Rangga | 
-| 1.2 | Implementasi OOP | Rangga & Wildan |
-| 1.3 | Implementasi UI  | Davio |
+| 1.2 | Implementasi UI (Gambaran Kasar)  | Davio |
+| 1.3 | Implementasi 9 Komponen Button | Rangga |
+| 1.4 | Implementasi Komponen Game Board  | Rangga |
+| 1.5 | Implementasi Komponen Judul  | Wildan |
 
 
 ## Retrospective 
