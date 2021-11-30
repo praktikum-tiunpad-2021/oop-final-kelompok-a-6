@@ -11,7 +11,7 @@
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-| 9             | 7             |
+| 9             | 8             |
 
 ## Sprint 2 Backlog
 
@@ -24,7 +24,7 @@
 | 1.5 | Implementasi Komponen Judul  | Wildan | DONE |
 | 2.1 | Implementasi Gameplay (UI(1.2) + OOP(1.3 - 1.5)) | Rangga, Wildan, & Davio | DONE |
 | 2.2 | Implementasi Komponen Button Reset | Davio | DONE |
-| 2.3 | Implementasi Komponen Button Exit | Wildan | FAILED |
+| 2.3 | Implementasi Komponen Button Exit | Wildan | DONE |
 | 2.4 | Implementasi Penanda Player X/O yang Bermain  | Davio | FAILED |
 
 ## Retrospective 
