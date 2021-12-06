@@ -83,7 +83,7 @@ public class Controler implements Initializable, Interface {
     }
 
     @FXML
-    void restartGame(ActionEvent evt) {
+    public void restartGame(ActionEvent evt) {
         buttons.forEach(this::resetButton);
         text.setText("Tic-Tac-Toe");
         playerTurn = 0;
