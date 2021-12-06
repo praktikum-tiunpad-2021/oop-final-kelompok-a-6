@@ -56,5 +56,12 @@ TO;DO
 UML image here
 
 ## Notable Assumption and Design App Details
+### Desain Aplikasi ###
 
-TO;DO
+### Fitur Aplikasi ###
+- Restart Game untuk mengulang permainan tanpa mereset Score Board
+- Exit Game untuk keluar dari program
+- Penanda/Penunjuk yang menunjukkan giliran siapa yang harus mengisi kotak permainan
+- Penanda Player X/O yang menang
+- Score Board Player X & Player O
+-  
