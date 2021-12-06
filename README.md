@@ -30,8 +30,8 @@ Tic-tac-toe merupakan permainan kertas dan pensil yang dimainkan untuk dua pemai
    - Implementasi Komponen Button Exit
    
    
-- **[Sprint 3](changelog/sprint-3.md) - (2/12/2021 - 6/12/2021)** 
-   - - Implementasi Penanda Player X/O yang Bermain
+- **[Sprint 3](changelog/sprint-3.md) - (4/12/2021 - 6/12/2021)** 
+   - Implementasi Penanda Player X/O yang Bermain
    - Implementasi Error Handling
    - Implementasi UI Fiks
    - Finishing
