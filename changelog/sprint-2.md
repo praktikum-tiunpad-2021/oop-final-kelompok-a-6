@@ -1,7 +1,7 @@
 # Scrum Report (Sprint 2)
 | From 28/11/2021 to 2/12/2021
 
-## Team (Insert your name)
+## Team 
 | NPM           | Name        |
 | ------------- |-------------|
 | 140810200007  | Rangga Putra    |
