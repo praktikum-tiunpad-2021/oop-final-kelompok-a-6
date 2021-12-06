@@ -51,17 +51,14 @@ Untuk menjalankan aplikasi, kita hanya perlu jalankan ini di root folder project
 
 ## Classes Used
 1. Controller
-
       Berisi Controller yang dihubungkan ke tampilan.fxml (UI). Kelompok kami menggunakan konsep           arsitektur MVC.
       - Controller.java
         Pada Controller ini berisi kode untuk 
 
 2. App (App.java)
-
       Merupakan class main, implementasi dari javafx.Aplication. Class ini digunakan untuk memanggil       tampilan.fxml.
 
 4. FXML (tampilan.fxml)
-
       UI dari keseluruhan Program, dibuat menggunakan Gluon Scene Builder.
 
 
