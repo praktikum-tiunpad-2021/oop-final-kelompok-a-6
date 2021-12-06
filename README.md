@@ -59,9 +59,9 @@ UML image here
 ### Desain Aplikasi ###
 
 ### Fitur Aplikasi ###
-- Restart Game untuk mengulang permainan tanpa mereset Score Board
-- Exit Game untuk keluar dari program
+- Kotak permainan berukurkan 3 x 3 untuk diisi Player X/O
 - Penanda/Penunjuk yang menunjukkan giliran siapa yang harus mengisi kotak permainan
 - Penanda Player X/O yang menang
 - Score Board Player X & Player O
--  
+- Restart Game untuk mengulang permainan tanpa mereset Score Board
+- Exit Game untuk keluar dari program
