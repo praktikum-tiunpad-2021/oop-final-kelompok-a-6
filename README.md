@@ -57,6 +57,11 @@ UML image here
 
 ## Notable Assumption and Design App Details
 ### Desain Aplikasi ###
+- Terdapat Kotak berukuran 3 x 3
+- Terdapat Penanda Player 
+- Terdapat Penanda Pemenang
+- Score Board
+- Button Restart & Exit
 
 ### Fitur Aplikasi ###
 - Kotak permainan berukurkan 3 x 3 untuk diisi Player X/O
