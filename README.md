@@ -52,7 +52,7 @@ Untuk menjalankan aplikasi, kita hanya perlu jalankan ini di root folder project
 ## Classes Used
 1. Controller
       
-      Berisi Controller yang dihubungkan ke tampilan.fxml (UI). Kelompok kami menggunakan konsep           arsitektur MVC.
+      Berisi Controller yang dihubungkan ke tampilan.fxml (UI).
       - Controller.java
         Pada Controller ini berisi kode untuk 
 
