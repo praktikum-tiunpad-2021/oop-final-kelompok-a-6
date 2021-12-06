@@ -45,7 +45,7 @@ Membutuhkan repository ini di clone di local environment serta memastikan Java d
 
 Untuk menjalankan aplikasi, kita hanya perlu jalankan ini di root folder project hasil clone.
 
-gradlew run
+      # gradlew run
 
 
 ## Classes Used
