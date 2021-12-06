@@ -25,15 +25,15 @@
 | 2.1 | Implementasi Gameplay (UI(1.2) + OOP(1.3 - 1.5)) | Rangga, Wildan, & Davio | DONE |
 | 2.2 | Implementasi Komponen Button Reset | Davio | DONE |
 | 2.3 | Implementasi Komponen Button Exit | Wildan | DONE |
-| 2.4 | Implementasi Penanda Player X/O yang Bermain  | Davio | FAILED |
 
 ## Retrospective 
 
-Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian tugas. Lorem ipsum dolor sit amet
+Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian tugas.
 
 ## Next Sprint Backlog (Sprint 3)
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
-| 3.1 | Implementasi Error Handling | Rangga |
-| 3.2 | Implementasi UI Fiks | Davio & Wildan |
-| 3.3 | Finishing | Rangga |
+| 3.1 | Implementasi Penanda Player X/O yang Bermain  | Davio |
+| 3.2 | Implementasi Error Handling | Rangga |
+| 3.3 | Implementasi UI Fiks | Davio & Wildan |
+| 3.4 | Finishing | Rangga |
