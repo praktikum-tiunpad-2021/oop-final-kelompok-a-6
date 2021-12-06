@@ -16,7 +16,8 @@
 ## Sprint 3 Backlog
 
 | ID  | Title/Desc | Asignee | Status |
-| --- | ---------- | ------- | ------ || 1.1 | Inisiasi Project | Rangga | DONE |
+| --- | ---------- | ------- | ------ |
+| 1.1 | Inisiasi Project | Rangga | DONE |
 | 1.2 | Implementasi UI(Gambaran Kasar) | Davio | DONE |
 | 1.3 | Implementasi 9 Komponen Button  | Rangga | DONE |
 | 1.4 | Implementasi Komponen Game Board  | Rangga | DONE |
