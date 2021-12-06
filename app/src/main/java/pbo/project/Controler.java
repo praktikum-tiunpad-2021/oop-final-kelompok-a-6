@@ -3,7 +3,6 @@ package pbo.project;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.ResourceBundle;
-
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 import javafx.event.ActionEvent;
@@ -14,16 +13,13 @@ import javafx.scene.control.Button;
 import javafx.scene.control.ButtonType;
 import javafx.scene.control.Alert.AlertType;
 import javafx.scene.layout.AnchorPane;
-
 import java.util.Arrays;
 
 /**
  *
  * @author Rangga Putra
- *         Wildan Hanif Mustofa
- *         Muhamad Davio Athallah
  */
-public class Controler implements Initializable {
+public class Controler implements Initializable, Interface {
     @FXML
     private AnchorPane anchorPane;
 
@@ -63,6 +59,9 @@ public class Controler implements Initializable {
     @FXML
     private Text scoreO;
 
+    @FXML
+    private Text turn;
+
     // Buat Logout
     Stage stage;
 
@@ -87,8 +86,11 @@ public class Controler implements Initializable {
     void restartGame(ActionEvent evt) {
         buttons.forEach(this::resetButton);
         text.setText("Tic-Tac-Toe");
+        playerTurn = 0;
+        turn.setText("PLAYER X");
     }
 
+    @Override
     public void resetButton(Button btn) {
         btn.setDisable(false);
         btn.setText("");
@@ -102,18 +104,22 @@ public class Controler implements Initializable {
         });
     }
 
+    @Override
     public void setPlayerSymbol(Button btn) {
         if (playerTurn % 2 == 0) {
             // text X
+            turn.setText("PLAYER O");
             btn.setText("X");
             playerTurn = 1;
         } else {
             // text O
+            turn.setText("PLAYER X");
             btn.setText("O");
             playerTurn = 0;
         }
     }
 
+    @Override
     public void checkIfGameIsOver(Button btn) {
         for (int i = 0; i < 8; i++) {
             String line = switch (i) {
@@ -138,13 +144,20 @@ public class Controler implements Initializable {
 
                 // Error handling, biar klo ada yang udah menang, ga di cek lagi
                 i = 8;
-                // try {
-                // Thread.sleep(1000);
-                // } catch (InterruptedException e) {
-                // System.out.println("Thread Interrupted");
-                // }
-                // Buat reset pas ada player menang game
-                // buttons.forEach(this::resetButton);
+
+                Alert alert = new Alert(AlertType.WARNING);
+                alert.setTitle("NOTIFICATION");
+                alert.setHeaderText("PLAYER X WIN !");
+
+                // Untuk keluar Program
+                if (alert.showAndWait().get() == ButtonType.OK) {
+                    buttons.forEach(this::resetButton);
+                    playerTurn = 0;
+                    text.setText("Tic-Tac-Toe");
+                    turn.setText("PLAYER X");
+                } else {
+                    buttons.forEach(this::resetButton);
+                }
             }
             // O Winner
             else if (line.equals("OOO")) {
@@ -156,10 +169,25 @@ public class Controler implements Initializable {
 
                 // Error handling, biar klo ada yang udah menang, ga di cek lagi
                 i = 8;
+
+                Alert alert = new Alert(AlertType.WARNING);
+                alert.setTitle("NOTIFICATION");
+                alert.setHeaderText("PLAYER O WIN !");
+
+                // Untuk keluar Program
+                if (alert.showAndWait().get() == ButtonType.OK) {
+                    buttons.forEach(this::resetButton);
+                    playerTurn = 0;
+                    text.setText("Tic-Tac-Toe");
+                    turn.setText("PLAYER X");
+                } else {
+                    buttons.forEach(this::resetButton);
+                }
             }
         }
     }
 
+    @Override
     public void delay() {
         try {
             Thread.sleep(1000);
@@ -169,6 +197,7 @@ public class Controler implements Initializable {
     }
 
     // Method Buat Logout
+    @Override
     public void exitApp(ActionEvent evt) {
         Alert alert = new Alert(AlertType.CONFIRMATION);
         alert.setTitle("Exit");
