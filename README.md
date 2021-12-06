@@ -38,7 +38,15 @@ Tic-tac-toe merupakan permainan kertas dan pensil yang dimainkan untuk dua pemai
 
 ## Running The App
 
-TO;DO with steps
+Aplikasi kami dapat dijalankan dengan cara :
+
+###Clone serta Build
+Membutuhkan repository ini di clone di local environment serta memastikan Java dan JavaFX telah dipasang.
+
+Untuk menjalankan aplikasi, kita hanya perlu jalankan ini di root folder project hasil clone.
+
+gradlew run
+
 
 ## Classes Used
 
