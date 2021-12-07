@@ -18,6 +18,8 @@ import java.util.Arrays;
 /**
  *
  * @author Rangga Putra
+ *         Wildan Hanif Musyaffa
+ *         Muhamad Davio Athallah
  */
 public class Controler implements Initializable, Interface {
     @FXML
