@@ -11,7 +11,7 @@
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-| 12             | 8             |
+| 12             | 12             |
 
 ## Sprint 3 Backlog
 
@@ -25,10 +25,10 @@
 | 2.1 | Implementasi Gameplay (UI(1.2) + OOP(1.3 - 1.5)) | Rangga, Wildan, & Davio | DONE |
 | 2.2 | Implementasi Komponen Button Reset | Davio | DONE |
 | 2.3 | Implementasi Komponen Button Exit | Wildan | DONE |
-| 3.1 | Implementasi Penanda Player X/O yang Bermain  | Davio | FAILED |
-| 3.2 | Implementasi Error Handling | Rangga | FAILED |
-| 3.3 | Implementasi UI Fiks | Davio & Wildan | FAILED |
-| 3.4 | Finishing | Rangga | FAILED |
+| 3.1 | Implementasi Penanda Player X/O yang Bermain  | Davio | DONE |
+| 3.2 | Implementasi Error Handling | Rangga | DONE |
+| 3.3 | Implementasi UI Fiks | Davio & Wildan | DONE |
+| 3.4 | Finishing | Rangga | DONE |
 
 ## Retrospective 
 
