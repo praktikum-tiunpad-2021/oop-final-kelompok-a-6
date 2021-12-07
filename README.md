@@ -57,7 +57,7 @@ Untuk menjalankan aplikasi, kita hanya perlu jalankan ini di root folder project
    Berisi Controller yang dihubungkan ke tampilan.fxml (UI).
 
    - Controller.java
-     Pada Controller ini berisi kode untuk
+     Pada Controller ini berisi kode logic dari program TicTacToe.
 
 2. App (App.java)
 
